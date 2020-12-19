@@ -1,4 +1,4 @@
-- [ ] 01. [Two Sum](https://leetcode.com/problems/two-sum)
+- [x] 01. [Two Sum](https://leetcode.com/problems/two-sum)
 - [ ] 02. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [ ] 03. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring)
 - [ ] 04. [Container With Most Water](https://leetcode.com/problems/container-with-most-water)
@@ -47,7 +47,7 @@
 - [ ] 47. [Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure)
 - [ ] 48. [Word Search II](https://leetcode.com/problems/word-search-ii)
 - [ ] 49. [House Robber II](https://leetcode.com/problems/house-robber-ii)
-- [ ] 50. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
+- [x] 50. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 - [ ] 51. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree)
 - [ ] 52. [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 - [ ] 53. [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
@@ -79,9 +79,9 @@
 
 ## Array
 
-- [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [ ] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 - [ ] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
